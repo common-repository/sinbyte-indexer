@@ -1,0 +1,131 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Sinbyte Indexer\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-11-21 11:53+0000\n"
+"PO-Revision-Date: 2022-03-10 16:06+0000\n"
+"Last-Translator: \n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.0; wp-5.9.1\n"
+"X-Domain: wp-sbi"
+
+#: inc/Admin_Menus.php:192
+msgid "API key"
+msgstr ""
+
+#: inc/Admin_Menus.php:69 inc/Admin_Menus.php:126
+msgid "Console"
+msgstr ""
+
+#: inc/Admin_Menus.php:164
+msgid "Enable"
+msgstr ""
+
+#: inc/Main.php:196
+msgid "Error!"
+msgstr ""
+
+#: inc/Admin_Menus.php:158
+msgid "General Options"
+msgstr ""
+
+#: inc/Admin_Menus.php:124
+msgid "General options"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://hutanatu.com/"
+msgstr ""
+
+#: inc/Admin_Menus.php:76
+msgid "Instant Indexing"
+msgstr ""
+
+#: inc/Admin_Menus.php:92 inc/Admin_Menus.php:127
+msgid "Log"
+msgstr ""
+
+#: inc/Admin_Menus.php:102
+msgid "Name"
+msgstr ""
+
+#: inc/Main.php:172 inc/Main.php:188
+msgid "No valid URL"
+msgstr ""
+
+#: inc/Admin_Menus.php:95
+msgid "Not found"
+msgstr ""
+
+#: inc/Admin_Menus.php:217
+msgid "Register for an account at sinbyte.com"
+msgstr ""
+
+#: inc/Main.php:167
+msgid "Security check not passed!"
+msgstr ""
+
+#: inc/Admin_Menus.php:87
+msgid "Send to API"
+msgstr ""
+
+#: inc/Main.php:87
+msgid "Settings"
+msgstr ""
+
+#. Description of the plugin
+#: inc/Admin_Menus.php:125
+msgid "Sinbyte Indexer"
+msgstr ""
+
+#: inc/Admin_Menus.php:215
+#, php-format
+msgid ""
+"Sinbyte Indexer offers a unique solution to indexing and pinging your "
+"backlinks. 100% Google safe, and guaranteed results."
+msgstr ""
+
+#: inc/Admin_Menus.php:186
+msgid "Sinbyte.Com"
+msgstr ""
+
+#: inc/Admin_Menus.php:104
+msgid "Status"
+msgstr ""
+
+#: inc/Main.php:194
+msgid "Success!"
+msgstr ""
+
+#: inc/Admin_Menus.php:101
+msgid "Time"
+msgstr ""
+
+#. Author of the plugin
+msgid "Trung Huynh (HuTaNaTu)"
+msgstr ""
+
+#: inc/Admin_Menus.php:103
+msgid "URLs"
+msgstr ""
+
+#: inc/Admin_Menus.php:80
+msgid "URLs (one per line)"
+msgstr ""
+
+#. Name of the plugin
+msgid "WP Sinbyte Indexer"
+msgstr ""
+
+#: inc/Admin_Menus.php:216
+msgid ""
+"You must have a Basic or above plan to use the API. Once logged in, you cand "
+"find your API key under the Quick Submit Links."
+msgstr ""

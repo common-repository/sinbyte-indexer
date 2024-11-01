@@ -1,0 +1,53 @@
+.switch-input {
+  display: none !important;
+}
+.switch-input:checked + .switch {
+  background-color: #00e7af;
+}
+.switch-input:checked + .switch:after {
+  background-color: white;
+  transform: translateX(30px);
+}
+
+.switch {
+  position: relative;
+  cursor: pointer;
+  width: 60px;
+  height: 30px;
+  display: block;
+  overflow: hidden;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
+  border-radius: 999px;
+  transition: background-color 0.25s linear;
+}
+.switch:after {
+  content: "";
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  border-radius: 999px;
+  background-color: #00e7af;
+  top: 5px;
+  left: 5px;
+  transition: background-color 0.25s linear, transform 0.25s linear;
+}
+
+.form-table td label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.wp-sbi-log {
+  border-collapse: collapse;
+  width: 100%;
+}
+.wp-sbi-log tr:nth-child(even) {
+  background-color: #ddd;
+}
+.wp-sbi-log td, .wp-sbi-log th {
+  border: 1px solid #ddd;
+  padding: 10px;
+  vertical-align: top;
+}
+
+/*# sourceMappingURL=wp-sbi-admin.css.map */
